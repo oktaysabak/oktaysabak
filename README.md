@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **django, python, drf**
 
-- 👯 I’m looking to collaborate on **startech**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **django**
 

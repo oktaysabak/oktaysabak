@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktaysabak" alt="oktaysabak" /> </p>
 
-- 🔭 I’m currently working on **digital-atm-management**
+- 🔭 I’m currently working on **digital-atm-management dashboard**
 
-- 🌱 I’m currently learning **django, python, drf**
+- 🌱 I’m currently learning **django, python, drf, docker**
 
 - 👯 I’m looking to collaborate on **open source projects**
 

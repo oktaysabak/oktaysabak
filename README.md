@@ -15,5 +15,5 @@
 
 - 📫 How to reach me **oktaysabak@yandex.com**
 
-- ⚡ Fun fact **Coffe!**
+- ⚡ Fun fact **Coffee!**
 
